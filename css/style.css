@@ -9672,3 +9672,47 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+.skill-category-card {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+  padding: 1.5rem;
+  height: 100%; }
+  .skill-category-card h3 {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: #3e64ff; }
+
+.skill-tags {
+  margin-bottom: 0;
+  line-height: 1.8; }
+  .skill-tags span {
+    display: inline-block;
+    background: rgba(62, 100, 255, 0.1);
+    color: #333;
+    border: 1px solid rgba(62, 100, 255, 0.3);
+    border-radius: 20px;
+    padding: 4px 12px;
+    margin: 0 6px 8px 0;
+    font-size: 13px;
+    font-weight: 500; }
+
+.resume-wrap .skill-tags {
+  margin-top: 10px; }
+
+.about-info a {
+  color: #3e64ff; }
+  .about-info a:hover {
+    color: #fff;
+    text-decoration: underline; }
+
+.btn-outline-primary {
+  color: #3e64ff;
+  border-color: #3e64ff;
+  background: transparent; }
+  .btn-outline-primary:hover {
+    color: #fff;
+    background: #3e64ff;
+    border-color: #3e64ff; }
